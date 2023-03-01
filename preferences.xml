@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Favorite movies>
+    <First>Die hard</First>
+    <Second>Alien</Second>
+    <Third>It</Third>
+  </Favorite movies>
+  <Favorite TV Shows>
+    <First>Gotham</First>
+    <Second>Sesame Street</Second>
+    <Third>The Sopranos</Third>
+  </Favorite TV Shows>
+  <Favorite eat>fried chicken</Favorite eat>
+  <Favorite season>summer</Favorite season>
+  <Favorite country to travel>Thailand</Favorite country to travel>
+</root>
+
