@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <FIO>
+    <Surname>Trunov</Surname>
+    <Name>Dmitry</Name>
+    <Grandname>Yurievich</Grandname>
+  </FIO>
+  <Age>35</Age>
+  <Home animals>2</Home animals>
+  <Future salary>2000$</Future salary>
+</root>
+
